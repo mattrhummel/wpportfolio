@@ -1,0 +1,24 @@
+{
+  "name": "hummel-portfolio",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/mattrhummel/wpportfolio.git",
+  "author": "Matt Hummel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattrhummel/wpportfolio/issues"
+  },
+  "homepage": "https://github.com/mattrhummel/wpportfolio#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-refresh": "^1.1.0",
+    "sass": "^1.53.0"
+  },
+  "dependencies": {
+    "reload": "^3.2.0"
+  }
+}
