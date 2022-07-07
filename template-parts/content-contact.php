@@ -53,7 +53,7 @@
                     <div data-aos-delay="600" class="col-lg-7 contact-input">
                         <div class="contact-form-wrapper">
                                 
-                          <?php echo do_shortcode('[wpforms id="67"]') ?>
+                            <?php echo do_shortcode('[wpforms id="67"]') ?>
        
                         </div>
                     </div>
